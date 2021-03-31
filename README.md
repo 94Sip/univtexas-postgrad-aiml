@@ -1,7 +1,7 @@
 # univtexas-postgrad-aiml
 This repository contains all the projects I did (independently) as part of the post graduate AIML course from the University of Texas and Great Learning, over the course of approximately 6 months.
 
-Most of these cases utilized datasets which can be found on Kaggle, but were provided via Great Learning. 
+Most of these cases utilized datasets which can be found on Kaggle, but were provided via Great Learning.
 The deep learning cases (MLP, CNN) utilized Google Colab, as you will see in the notebooks.
 
 The general curriculum we followed (which corresponds to what the cases demonstrate) is:
