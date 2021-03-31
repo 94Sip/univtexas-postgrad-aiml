@@ -6,11 +6,11 @@ The deep learning cases (MLP, CNN) utilized Google Colab, as you will see in the
 
 The general curriculum we followed (which corresponds to what the cases demonstrate) is:
 
-	Exploratory Data Analysis (completed)
-	Logistic Regression (completed)
-	Ensemble methods: Decision Trees, Boosting, Bagging, Random Forests. This case also demonstrated dealing with imbalanced classes. (completed)
-	Feature Engineering: Lasso/Ridge Regression, Polynomial Features, Cross-Validation, Pipelines, Hyperparameter tuning (RandomizedSearchCV) (completed)
-	Customer Segmentation (Clustering): KMeans and Agglomerative Clustering (completed)
-	Customer Churn modeling with Neural Networks (completed)
-	Convolutional Neural Networks: Seedling Classification (Completed)
-	Sentiment Analysis of US Airline Tweets: Natural Language Processing (Completed)
+	Deep dive into Exploratory Data Analysis (EDA) using online movie reviews
+	Using Logistic Regression to predict marketing program success for Bank Loans
+	Utilization of Ensemble methods, inlcusing Decision Trees, Boosting, Bagging, Random Forests, and dealing with imbalanced classes to predict Bank Term Deposit marketing.
+	Conduct Feature Engineering, Lasso/Ridge Regression, Polynomial Features, Cross-Validation, Pipelines, and Hyperparameter tuning to predict concrete strength
+	Using KMeans and Agglomerative Clustering to perform Customer Segmentation for Credit Card marketing programs
+	Using Neural Networks (Deep Learning) to predict Customer Churn modeling
+	Using Convolutional Neural Networks (CNN) to classify seedlings vs weeds
+	Using Natural Language Processing (NLP) to conduct Sentiment Analysis of US Airline Tweets
